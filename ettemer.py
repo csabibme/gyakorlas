@@ -19,7 +19,7 @@ class Etterem:
             print (f"{menuitem.nev} .......... {menuitem.ar}")
 
 etel1 = Etel("Krumplistészta", 899)
-etel2 = Etel("Pacalprökölt", 1500)
+etel2 = Etel("Pacalprököl", 1500)
 my_menu = [etel1, etel2]
 
 azetterem = Etterem("Bográcsos Hely", my_menu)
