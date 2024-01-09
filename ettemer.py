@@ -33,6 +33,6 @@ for i in range(2):
         azetterem + Etel(etel_neve, etel_ara)
 
 
-my_etel = Etel("Gulyásleves", 1250)
+my_etel = Etel("Gulyástanya", 1250)
 print(azetterem)
 azetterem.getmenuitems()
